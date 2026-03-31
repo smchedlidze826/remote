@@ -1,0 +1,26 @@
+.container{margin-top: 1rem;
+      margin: 2rem 0;
+  padding: 1.5rem;
+  border: 1px solid #d1d5db;
+  border-radius: 1rem;
+  background: linear-gradient(135deg, #cbeefc, #ffffff 60%);
+  color: #111827;
+}
+.eyebrow {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #3f6212;
+}
+
+h2 {
+  margin: 0 0 0.75rem;
+}
+
+p {
+  margin: 0.75rem 0 0;
+  line-height: 1.5;
+}
